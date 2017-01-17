@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "dot.h"
+#include <dot.h>
 
 /*  Compile by
 gcc main.c dot.c -o main
